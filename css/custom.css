@@ -1,0 +1,14 @@
+body{
+    background-color: darkgoldenrod;
+}
+.text{
+color:white;
+}
+
+p.text{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: italic;
+}
+.links:hover{
+    background-color: yellow;
+}
